@@ -2,8 +2,8 @@
 <!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
 <wallpapers>
   <wallpaper>
-    <name>sabayon.org</name>
-    <filename>/usr/share/backgrounds/sabayonlinux.png</filename>
+    <name>www.rogentos.ro</name>
+    <filename>/usr/share/backgrounds/rogentoslinux.png</filename>
     <options>zoom</options>
     <shade_type>solid</shade_type>
     <pcolor>#3465a4</pcolor>
